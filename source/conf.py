@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DocBook'
+project = 'BookData'
 copyright = '2020, wsx'
 author = 'wsx'
 
