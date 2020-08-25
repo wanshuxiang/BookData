@@ -101,6 +101,16 @@ or tools to configure network / wifi:
 Reference: \ `xrand display configuration <https://www.dazhuanlan.com/2020/01/30/5e320494cf9cf>`_
 
 
+5 Misc Tools
+==============
+
+5.1 Screen shot tools
+***********************
+    * mate-screenshot
+    * flameshot (good)
+
+
+
 .. note::
 
     sample of note section.
