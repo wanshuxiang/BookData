@@ -9,7 +9,8 @@ Welcome to DocBook's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   i3wmconfig
 
 
 Indices and tables
