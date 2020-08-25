@@ -10,6 +10,7 @@ Welcome to DocBook's documentation!
    :maxdepth: 2
    :caption: Contents:
    
+   installzsh
    i3wmconfig
 
 
