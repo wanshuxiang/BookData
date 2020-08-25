@@ -2,7 +2,7 @@
 **i3wm Install and Configuration**
 ######################################
 
-1. Installation
+1. Apps and Tools
 =================
 App and Tools needed:
     #. i3wm (i3-gaps)
@@ -32,18 +32,18 @@ Chinese Imput Method
         export QT_IM_MODULE=fcitx
         export XMODIFIERS="@im=fcitx"
 
-1.1 Pacman and Yay
-*******************
-1.1.1 Pacman
-+++++++++++++
+2 Pacman and Yay
+==================
+2.1 Pacman
+************
 
 ::
 
     $ sudo pacman-mirrors --country China
     $ sudo pacman -Syyu
 
-1.1.2 Yay
-+++++++++++
+2.2 Yay
+*********
 
 ::
 
@@ -51,8 +51,8 @@ Chinese Imput Method
     $ yay -Syyu
 
 
-1.2 Network Wifi
-******************
+3 Network & Wifi
+=================
 wifi:
 
 ::
@@ -67,11 +67,11 @@ or tools to configure network / wifi:
     nmtui
 
 
-1.3 Display Configuration
-**************************
+4 Display Configuration
+=========================
 
-1.3.1 Modify Display Configuration
-++++++++++++++++++++++++++++++++++++
+4.1 Modify Display Configuration
+**********************************
 
 ::
 
@@ -84,7 +84,7 @@ or tools to configure network / wifi:
     $ xrandr --addmode Virtual1 1920x1080_60
 
 
-1.3.2 Dual Display
+4.1.1 Dual Display
 +++++++++++++++++++
 
 ::
