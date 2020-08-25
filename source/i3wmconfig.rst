@@ -67,13 +67,11 @@ or tools to configure network / wifi:
     nmtui
 
 
+1.3 Display Configuration
+**************************
 
-
-2. Display Configuration
-========================
-
-2.1 Modify Display Configuration
-**********************************
+1.3.1 Modify Display Configuration
+++++++++++++++++++++++++++++++++++++
 
 ::
 
@@ -86,8 +84,8 @@ or tools to configure network / wifi:
     $ xrandr --addmode Virtual1 1920x1080_60
 
 
-2.2. Dual Display
-******************
+1.3.2 Dual Display
++++++++++++++++++++
 
 ::
 
