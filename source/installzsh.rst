@@ -35,7 +35,7 @@ modify /etc/hosts to add line:  "199.232.28.133	raw.githubusercontent.com"
 3. Add Plugins
 ===================
 
-3.1 zsh-autosuggestionns
+3.1 zsh-autosuggestions
 +++++++++++++++++++++++++++
 
 ::
