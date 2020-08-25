@@ -1,6 +1,6 @@
 
-**i3wm Configuration**
-#######################
+**i3wm Install and Configuration**
+######################################
 
 
 1. Display Configuration
@@ -9,8 +9,7 @@
 1.1. Modify Display Configuration
 **********************************
 
-:: code::
-
+::
 
     $ cvt 1920 1080 60
 
@@ -24,7 +23,7 @@
 1.2. Dual Display
 ******************
 
-:: code::
+::
 
     #clone mode:
     $xrandr --output Virtual1 --same-as HDMI-2 --mode 1920x1080_60
@@ -34,6 +33,8 @@
 
     #multi Display
     $xrandr --output Virtual1 --primary --auto --output HDMI-1 --auto --left-of HDMI-2
+
+Reference: \ `xrand display configuration <https://www.dazhuanlan.com/2020/01/30/5e320494cf9cf>`_
 
 
 .. note::
@@ -61,8 +62,8 @@
     #. sequence ssublist
 
 
-anchor link sample
-sample: \ `xrand display configuration <https://www.dazhuanlan.com/2020/01/30/5e320494cf9cf>`_
+anchor link:
+    sample: \ `xrand display configuration <https://www.dazhuanlan.com/2020/01/30/5e320494cf9cf>`_
 
 
 1.2.1.1 Fourth Level title
