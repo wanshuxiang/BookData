@@ -57,7 +57,8 @@ wifi:
 
 ::
 
-    $ yay -s network-manager-applet
+    $ yay -S network-manager-applet
+    $ yay -S nm-connection-editor
 
 or tools to configure network / wifi:
 
